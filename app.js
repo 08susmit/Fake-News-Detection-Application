@@ -829,3 +829,4 @@ if (document.readyState === 'loading') {
 } else {
   initializeEnhancedUX();
 }
+
